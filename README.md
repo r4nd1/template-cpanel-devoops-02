@@ -36,7 +36,7 @@ Chartist.js http://gionkunz.github.io/chartist-js/index.html 0.1.15 AS IS
 OpenStreetMap http://openlayers.org 2.13 BSD
 Leaflet.js http://leafletjs.com 0.7.3 AS IS
 
-<img src="https://raw.github.com/r4nd1/template-cpanel-devoops/master/screenshot.jpeg" width="900">
+<img src="https://raw.github.com/r4nd1/template-cpanel-devoops-02/master/screenshot.jpeg" width="900">
 
 ## Uploader
 * Name: Randy Riolis
